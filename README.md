@@ -36,12 +36,12 @@ Ademas al automatizar peticiones al servidor se reducen los tiempos en los test 
 ## Requisitos
 - Apache Jmeter 
 - Interprete Java [JDK](https://www.oracle.com/co/java/technologies/downloads/#jdk17-windows) 
-![img_1.png]([img_1.png](https://github.com/andresralo/api_automation_testing/blob/main/img/img_1.png))
+![img_1.png](https://github.com/andresralo/api_automation_testing/blob/main/img/img_1.png)
 - Variable de entrono JAVA_HOME
 
 ## Ejecutando JMeter
 
 Inicia Apache Jmeter ingresando a la carpeta donde se almaceno la [descarga](#https://jmeter.apache.org/download_jmeter.cgi) en el path ...\apache-jmeter-5.5\bin selecciona el archivo `jmeter.bat` o `jmeter.sh`.
-![img_2.png]([img_2.png](https://github.com/andresralo/api_automation_testing/blob/main/img/img_2.png))
+![img_2.png](https://github.com/andresralo/api_automation_testing/blob/main/img/img_2.png)
 
 
