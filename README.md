@@ -21,7 +21,7 @@ los siguientes paths de el Api:
 ##  Características
 Esta test automatizado esta diseñado como un archivo .jmx para ser ejecutado en la interfas Apache Jmeter la cual podras descargar [aqui](#https://jmeter.apache.org/download_jmeter.cgi)
 
-![img.png]([img.png](https://github.com/andresralo/api_automation_testing/blob/main/img/img.png))
+![img.png](https://github.com/andresralo/api_automation_testing/blob/main/img/img.png)
 
 
 
