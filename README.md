@@ -45,3 +45,9 @@ Inicia Apache Jmeter ingresando a la carpeta donde se almaceno la [descarga](#ht
 ![img_2.png](https://github.com/andresralo/api_automation_testing/blob/main/img/img_2.png)
 
 
+![img_3.png](https://github.com/andresralo/api_automation_testing/blob/main/img/img_3.png)
+- El recuadro amarillo muestra una imagen de escobilla el cual  funciona como limpiador de resultados.
+- Dirijase al recuadro rojo para observar resultados de las peticiones enviadas.
+- En los recuadros blancos puede identificar las validaciones realizadas en las respuestas de las diferentes peticiones de acuerdo a su respuesta esperada.
+
+
