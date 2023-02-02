@@ -50,4 +50,6 @@ Inicia Apache Jmeter ingresando a la carpeta donde se almaceno la [descarga](#ht
 - Dirijase al recuadro rojo para observar resultados de las peticiones enviadas.
 - En los recuadros blancos puede identificar las validaciones realizadas en las respuestas de las diferentes peticiones de acuerdo a su respuesta esperada.
 
+## Soporte
 
+-Si requiere posee alguna duda acerca de este desarrollo o desea aplicarlo a su empresa o proceso puede ponerse en contacto a travez del correo electronico `andresralo@gmail.com` o mensaje interno en el siguiente [perfil de linkedin](https://www.linkedin.com/in/josef-andres-ramos-l%C3%B3pez-b753a71b5/)
